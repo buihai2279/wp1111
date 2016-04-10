@@ -1,0 +1,100 @@
+
+/*                  */
+.menu-top_nav ul li a{
+    font-size: 15px;
+    font-family: 'roboto';
+    font-weight: initial;
+}
+
+.latest-post-row>.latest-post a.accent2-color:visited{
+    color: #303043;
+}
+.latest-post-row>.latest-post a.accent2-color:hover,
+/*.owl-stage-outer .owl-stage>.owl-item>.owl-item a.accent2-color:hover,*/
+.latest-post-row>.latest-post a.accent2-color:active{
+    color: #fe7545;
+}
+.entry-wrapper figure.entry-thumbnail div.thumbnail{
+    padding: 0px;
+    border-radius:0px;
+    border:none;
+}
+.owl-stage-outer .owl-stage>.owl-item>.owl-item a:visited{
+    color: #fff;
+}
+.tm-posts-carousel-widget > div.owl-stage-outer > div > div > div > div > h5 > a:hover{
+    color: #fe7545;
+}
+.menu-item-has-children a{color: #fff}
+a[rel="home"] { color: #fff;    }
+.hamburger-area.opened a{
+     color: #303043;
+}
+
+ul.social-list.list-header  li  a,
+ul.social-list.list-header  li  a:visited{
+    color: #fff;
+}
+ul.social-list.list-header  li  a:hover,
+ul.social-list.list-header li a:active{
+    color: #fe7545;
+}
+.single-post-content {
+     /*padding:0; */
+    
+}
+.site-title.h2-style{
+    font-family: 'Noto Serif';
+}
+.content-wrap{
+    /*padding:0;*/
+}
+
+ul.post-categories li:nth-child(3)+li{
+    visibility: visible;
+}
+.menu-main_nav>ul.main-navigation a:hover,
+.menu-main_nav>ul.main-navigation a:active {
+     color: #fe7545;
+}
+.menu-main_nav>ul.main-navigation a:visited {
+     color: #fff; 
+}
+
+.thumbnail a>img{
+    margin-left: auto;
+    float:left;
+}
+.page.type-page{
+    /*margin: none;*/
+}
+.entry-wrapper .featured-post-icon{
+    display: block;
+}
+
+/*responsive-embed-youtube*/
+.responsive-embed-youtube {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    padding-top: 25px;
+}
+.responsive-embed-youtube iframe {
+    position: absolute;
+    width: 100%!important;
+    height: 100%!important;
+}
+blockquote{
+    border: none;
+}
+blockquote a{
+    display: block;
+}
+blockquote a:hover{
+    color: #fff;
+}
+.quote>blockquote{
+    color: #fff;
+}
+ .format-quote .post-content blockquote p{
+   color: #303043;
+}
